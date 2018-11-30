@@ -38,4 +38,4 @@
 >	include /usr/local/etc/nginx/conf.d/*.conf;
 >	}
 
-## 2. 在 usr/local/etc/nginx 目錄底下 新增一個'conf.d'資料夾
+## 2. 在 usr/local/etc/nginx 目錄底下 新增一個`conf.d`資料夾

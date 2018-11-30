@@ -1,6 +1,6 @@
 # NginxVH 虛擬主機設置
 
-##1. nginx.conf 設定
+## 1. nginx.conf 設定
 
 >  #user  nobody;
 >  worker_processes  1;

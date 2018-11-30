@@ -3,7 +3,7 @@
 ##1. nginx.conf 設定
 
 > #user  nobody;
-> worker_processes  1;
+> \#worker_processes  1;
 > #error_log  logs/error.log;
 > #error_log  logs/error.log  notice;
 > #error_log  logs/error.log  info;

@@ -1,4 +1,4 @@
-# NginxVH 虛擬主機設置
+# NginxVH 虛擬主機設置 (Mac)
 
 ## 1. nginx.conf 設定
 
@@ -37,3 +37,5 @@
 >	
 >	include /usr/local/etc/nginx/conf.d/*.conf;
 >	}
+
+## 2. 在 usr/local/etc/nginx 目錄底下 新增一個'conf.d'資料夾
